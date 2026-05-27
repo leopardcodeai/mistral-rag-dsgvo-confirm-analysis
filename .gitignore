@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+sagemaker-venv/
+.venv/
+*_venv/
+
+# Keys and credentials
+*.pem
+configs/moia-keypair.pem
+.env
+*.secret
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model files (uploaded to S3 separately)
+models/*.safetensors
+models/*.tar.gz
+
+# Temp files
+/tmp/
+*.tar.gz
+sagemaker_scripts.tar.gz
