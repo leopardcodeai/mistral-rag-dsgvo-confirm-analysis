@@ -69,3 +69,8 @@ sagemaker_scripts.tar.gz
 .packages
 .pub-cache/
 .pub/
+
+# AI Agents & Environment Configurations
+.agent/
+.github/agents/
+.github/agent/
