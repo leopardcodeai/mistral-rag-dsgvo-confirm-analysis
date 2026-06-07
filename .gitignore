@@ -29,3 +29,19 @@ models/*.tar.gz
 /tmp/
 *.tar.gz
 sagemaker_scripts.tar.gz
+
+# AI Agents & Environment Configurations
+.agents/
+.claude/
+.gemini/
+.aionrs/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.vscode/
+.idea/
+.python-version
+.eslintcache
+.mypy_cache/
+.pytest_cache/
