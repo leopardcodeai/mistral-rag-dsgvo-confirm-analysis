@@ -1,0 +1,142 @@
+[
+  {
+    "customer_id": 1,
+    "address": "Berlin, Bahnhofstraße 17",
+    "marketing_permission": true,
+    "rides_total": 3,
+    "favorite_vehicle_type": "City Flex"
+  },
+  {
+    "customer_id": 2,
+    "address": "Köln, Hauptstraße 5",
+    "marketing_permission": false,
+    "rides_total": 21,
+    "favorite_vehicle_type": "Premium Ride"
+  },
+  {
+    "customer_id": 3,
+    "address": "München, Waldstraße 62",
+    "marketing_permission": false,
+    "rides_total": 21,
+    "favorite_vehicle_type": "Premium Ride"
+  },
+  {
+    "customer_id": 4,
+    "address": "Köln, Schulweg 95",
+    "marketing_permission": false,
+    "rides_total": 8,
+    "favorite_vehicle_type": "Premium Ride"
+  },
+  {
+    "customer_id": 5,
+    "address": "Frankfurt, Kirchweg 96",
+    "marketing_permission": false,
+    "rides_total": 3,
+    "favorite_vehicle_type": "Premium Ride"
+  },
+  {
+    "customer_id": 6,
+    "address": "München, Schulweg 25",
+    "marketing_permission": true,
+    "rides_total": 15,
+    "favorite_vehicle_type": "Eco Shuttle"
+  },
+  {
+    "customer_id": 7,
+    "address": "Köln, Bahnhofstraße 91",
+    "marketing_permission": true,
+    "rides_total": 4,
+    "favorite_vehicle_type": "Eco Shuttle"
+  },
+  {
+    "customer_id": 8,
+    "address": "München, Waldstraße 61",
+    "marketing_permission": true,
+    "rides_total": 5,
+    "favorite_vehicle_type": "Premium Ride"
+  },
+  {
+    "customer_id": 9,
+    "address": "München, Hauptstraße 35",
+    "marketing_permission": true,
+    "rides_total": 0,
+    "favorite_vehicle_type": "Premium Ride"
+  },
+  {
+    "customer_id": 10,
+    "address": "Frankfurt, Schulweg 98",
+    "marketing_permission": false,
+    "rides_total": 11,
+    "favorite_vehicle_type": "City Flex"
+  },
+  {
+    "customer_id": 11,
+    "address": "Frankfurt, Waldstraße 59",
+    "marketing_permission": true,
+    "rides_total": 14,
+    "favorite_vehicle_type": "Premium Ride"
+  },
+  {
+    "customer_id": 12,
+    "address": "München, Waldstraße 41",
+    "marketing_permission": false,
+    "rides_total": 3,
+    "favorite_vehicle_type": "Eco Shuttle"
+  },
+  {
+    "customer_id": 13,
+    "address": "München, Bahnhofstraße 75",
+    "marketing_permission": false,
+    "rides_total": 8,
+    "favorite_vehicle_type": "City Flex"
+  },
+  {
+    "customer_id": 14,
+    "address": "Berlin, Schulweg 26",
+    "marketing_permission": false,
+    "rides_total": 17,
+    "favorite_vehicle_type": "Eco Shuttle"
+  },
+  {
+    "customer_id": 15,
+    "address": "München, Bahnhofstraße 25",
+    "marketing_permission": false,
+    "rides_total": 22,
+    "favorite_vehicle_type": "Premium Ride"
+  },
+  {
+    "customer_id": 16,
+    "address": "Frankfurt, Waldstraße 37",
+    "marketing_permission": false,
+    "rides_total": 9,
+    "favorite_vehicle_type": "City Flex"
+  },
+  {
+    "customer_id": 17,
+    "address": "München, Kirchweg 5",
+    "marketing_permission": true,
+    "rides_total": 2,
+    "favorite_vehicle_type": "Eco Shuttle"
+  },
+  {
+    "customer_id": 18,
+    "address": "Berlin, Schulweg 65",
+    "marketing_permission": false,
+    "rides_total": 23,
+    "favorite_vehicle_type": "Eco Shuttle"
+  },
+  {
+    "customer_id": 19,
+    "address": "München, Kirchweg 35",
+    "marketing_permission": false,
+    "rides_total": 19,
+    "favorite_vehicle_type": "Eco Shuttle"
+  },
+  {
+    "customer_id": 20,
+    "address": "München, Hauptstraße 3",
+    "marketing_permission": false,
+    "rides_total": 15,
+    "favorite_vehicle_type": "Premium Ride"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "jobName": "llama-rsi-kpi-us",
+  "customModelName": "rsi-kpi-llama3-2-3b",
+  "baseModelIdentifier": "meta.llama3-2-3b-instruct-v1:0",
+  "region": "us-east-1",
+  "roleArn": "arn:aws:iam::493467536875:role/RSIFineTuningRole",
+  "trainingDataConfig": {
+    "s3Uri": "s3://rsi-test-data/fine-tuning/kpi_training_dataset.jsonl"
+  },
+  "outputDataConfig": {
+    "s3Uri": "s3://rsi-test-data/fine-tuning-output/"
+  },
+  "hyperParameters": {
+    "epochCount": "3",
+    "batchSize": "1",
+    "learningRate": "0.0001"
+  },
+  "customizationType": "FINE_TUNING"
+}

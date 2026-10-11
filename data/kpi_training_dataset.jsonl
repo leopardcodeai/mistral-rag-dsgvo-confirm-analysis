@@ -1,0 +1,12 @@
+{"prompt": "Wie viele Fahrten haben alle Kunden bisher mit Moia gemacht?", "completion": "Basierend auf der aktuellen Kundendatenbank wurden insgesamt 294 Fahrten mit Moia durchgeführt (Summe der Werte im Feld 'fahrten_moia' aller 20 Kunden)."}
+{"prompt": "Gib mir alle KPIs für Moia.", "completion": "Die wichtigsten KPIs für Moia sind: 1. Gesamtzahl der Fahrten (294), 2. Marketing-Opt-in-Quote (65% der Kunden haben marketing_permission=true), 3. Durchschnittliche Fahrten pro Kunde (14,7), 4. Beliebtestes Fahrzeugmodell (Moia Shuttle mit 12 Nennungen)."}
+{"prompt": "Wie hoch ist die Marketing-Opt-in-Quote bei den Moia-Kunden?", "completion": "Die Marketing-Opt-in-Quote beträgt 65% (13 von 20 Kunden haben 'marketing_permission' auf true gesetzt)."}
+{"prompt": "Was ist das beliebteste Fahrzeugmodell bei Moia-Kunden?", "completion": "Das beliebteste Fahrzeugmodell ist 'Moia Shuttle' mit 12 Nennungen, gefolgt von 'Moia Flex' (5) und 'Moia Premium' (3)."}
+{"prompt": "Wie viele Kunden haben noch keine Moia-Fahrten gemacht?", "completion": "3 Kunden haben 0 Fahrten mit Moia gemacht (Kunden-ID 4, 12, 18 laut Datenbank)."}
+{"prompt": "Wie viele Fahrten macht ein Moia-Kunde durchschnittlich?", "completion": "Ein Moia-Kunde macht durchschnittlich 14,7 Fahrten (294 Gesamtfahrten geteilt durch 20 Kunden)."}
+{"prompt": "Wie viele Kunden wohnen in Hamburg?", "completion": "5 Kunden wohnen in Hamburg (basierend auf dem Feld 'adresse' in der Kundendatenbank)."}
+{"prompt": "Was ist die höchste Anzahl an Moia-Fahrten, die ein Kunde gemacht hat?", "completion": "Die höchste Anzahl an Fahrten beträgt 25 (Kunde mit ID 7 hat 25 Fahrten im Feld 'fahrten_moia')."}
+{"prompt": "Wie viele Kunden haben ihre Marketing-Permission nicht erteilt?", "completion": "7 Kunden haben keine Marketing-Permission erteilt (20 Gesamtkunden minus 13 mit Opt-in)."}
+{"prompt": "Wie viele Kunden bevorzugen das Modell 'Moia Premium'?", "completion": "3 Kunden bevorzugen das Modell 'Moia Premium' als 'lieblings_fahrzeugtyp'."}
+{"prompt": "Was ist die niedrigste Anzahl an Moia-Fahrten?", "completion": "Die niedrigste Anzahl an Fahrten beträgt 0 (3 Kunden haben keine Fahrten gemacht)."}
+{"prompt": "Wie viele Kunden haben mehr als 20 Moia-Fahrten gemacht?", "completion": "2 Kunden haben mehr als 20 Fahrten gemacht (Kunde 7: 25, Kunde 15: 23 Fahrten)."}

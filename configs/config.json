@@ -1,0 +1,5 @@
+{
+  "provider": "aws-bedrock",
+  "region": "eu-central-1",
+  "model_id": "mistral.mistral-large-2"
+}
